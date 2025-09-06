@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Premium noise-canceling wireless headphones with 30-hour battery life and superior sound quality",
+    "price": 199.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "2", 
+    "name": "Smart Fitness Tracker",
+    "description": "Advanced fitness tracker with heart rate monitoring, GPS, and sleep tracking capabilities",
+    "price": 149.99,
+    "category": "Wearables"
+  },
+  {
+    "id": "3",
+    "name": "Organic Coffee Beans",
+    "description": "Premium single-origin organic coffee beans with rich flavor and sustainable farming practices",
+    "price": 24.99,
+    "category": "Food & Beverage"
+  },
+  {
+    "id": "4",
+    "name": "Ergonomic Office Chair",
+    "description": "Comfortable ergonomic office chair with lumbar support and adjustable height for long work sessions",
+    "price": 299.99,
+    "category": "Furniture"
+  },
+  {
+    "id": "5",
+    "name": "Portable Solar Charger",
+    "description": "Eco-friendly portable solar charger for smartphones and tablets with fast charging technology",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "6",
+    "name": "Yoga Mat Premium",
+    "description": "Non-slip premium yoga mat with extra cushioning and eco-friendly materials for comfortable practice",
+    "price": 49.99,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "7",
+    "name": "Smart Home Security Camera",
+    "description": "WiFi-enabled security camera with night vision, motion detection, and mobile app integration",
+    "price": 129.99,
+    "category": "Smart Home"
+  },
+  {
+    "id": "8",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours or hot for 12 hours",
+    "price": 34.99,
+    "category": "Lifestyle"
+  },
+  {
+    "id": "9",
+    "name": "Wireless Phone Charger",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices and sleek modern design",
+    "price": 39.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "10",
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with multiple brightness levels and USB charging port for workspace efficiency",
+    "price": 59.99,
+    "category": "Office Supplies"
+  }
+]

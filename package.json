@@ -1,0 +1,21 @@
+{
+  "name": "gcp-rag-demo",
+  "version": "1.0.0",
+  "description": "RAG application demo using GCP AI services",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.75",
+    "@langchain/google-common": "^0.2.17",
+    "@langchain/google-vertexai": "^0.2.17",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "langchain": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
